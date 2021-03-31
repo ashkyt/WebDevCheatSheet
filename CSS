@@ -1,0 +1,32 @@
+body{
+    font-family: Helvetica;
+    background-color: blanchedalmond;
+}
+header{
+    font-family: 'Bebas Neue', cursive; 
+    font-size: 200%   
+}
+table{
+    width: 800px;
+    text-align: left;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 10px;
+}
+th{
+    background-color: chocolate;
+}
+caption{ 
+    font-size: 150%;
+    text-align: left;
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+}
